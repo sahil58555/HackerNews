@@ -1,0 +1,19 @@
+.box-card {
+    font-size: 10pt;
+    color: #828282;
+    
+}
+
+.inner-box-card {
+    font-size: 10pt;
+    margin-bottom: 0px;
+    display: 'inline';
+}
+
+.span-card {
+    margin-top: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
